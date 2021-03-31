@@ -37,5 +37,12 @@ body {
 @media (min-width: 800px) {
   .obdelnik {
     background-color: #e74c3c;
+    border-width: 15px;
+  }
+}
+
+@media (min-width: 1000px) {
+  .obdelnik {
+    background-color: dodgerblue;
   }
 }
