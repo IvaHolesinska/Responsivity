@@ -29,3 +29,13 @@ body {
 	zelená		#2ecc71
 	červená		#e74c3c
 */
+
+.obdelnik {
+  background-color: #2ecc71;
+}
+
+@media (min-width: 800px) {
+  .obdelnik {
+    background-color: #e74c3c;
+  }
+}
